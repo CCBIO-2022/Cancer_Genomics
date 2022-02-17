@@ -2,7 +2,7 @@
 Essential information for course   
 (is page you are viewing now:  https://github.com/CCBIO-2022/Cancer_Genomics)    
 
-![image](https://user-images.githubusercontent.com/99884739/154520239-a1b78487-0402-4650-aded-9bc8e3db2691.png)
+![image](https://user-images.githubusercontent.com/99884739/154520737-f466699f-c242-4d08-8ffd-36e006ae4da5.png)
 
 ## Zoom-link:     
 The zoom-link that we will use for this course is the following:     
