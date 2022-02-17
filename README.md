@@ -13,9 +13,10 @@ https://uib.zoom.us/j/64845033505?pwd=K215akltelhya1hGN0lJVlJqNWxDQT09
 ### CourseDescription
 https://www.uib.no/emne/CCBIO906       
 
-### Time schedule             
+### Location             
 ![image](https://user-images.githubusercontent.com/7384422/154360033-0de8795d-5aab-4f2a-856e-03c55e7efec2.png)
 
+### Time schedule    
 ![image](https://user-images.githubusercontent.com/7384422/154360373-0d6cc372-5524-4750-8d47-33cdc3525b35.png)
 
 ![image](https://user-images.githubusercontent.com/7384422/154360424-b6860f26-f751-412d-a75d-027353ffaaf3.png)
