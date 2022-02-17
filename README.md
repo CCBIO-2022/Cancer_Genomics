@@ -34,10 +34,18 @@ Rooms at Haukeland University hospital
 ## Assignments:          
 
 ### Assignment 1 | pre course submission (questions)             
-https://skjemaker.app.uib.no/view.php?id=12197011 
+[submit assignment_1 here](https://skjemaker.app.uib.no/view.php?id=12197011)    
 
 ### Assignment 2 | Group work submission    
-https://skjemaker.app.uib.no/view.php?id=12197762       
+
+Include the following in your "1-page" submission (min 250 words):
+- Title/question     
+- Name of group members     
+- Background
+- Discussion
+- References
+    
+[submit assignment_2 here](https://skjemaker.app.uib.no/view.php?id=12197762)          
 
 ### Contacts             
 Liv Cecilie Vestrheim Thomsen  | Liv.Vestrheim@uib.no        
