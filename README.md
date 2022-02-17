@@ -46,7 +46,7 @@ Include the following in your "1-page" submission (min 250 words):
 - References
     
 [Please, submit assignment_2 here:](https://skjemaker.app.uib.no/view.php?id=12197762)      
-All of you need to submit individually (even though it is group work)               
+**All of you need to submit individually (even though it is group work)**               
 
 ### Contacts             
 Liv Cecilie Vestrheim Thomsen  | Liv.Vestrheim@uib.no        
