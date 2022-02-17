@@ -1,5 +1,5 @@
 # CCBIO906_Cancer_Genomics_2022
-Essential information for course (on this webpage: https://github.com/CCBIO-2022/Cancer_Genomics)    
+Essential information for course (current page https://github.com/CCBIO-2022/Cancer_Genomics)    
 
 ![image](https://user-images.githubusercontent.com/99884739/154484627-38c7b90e-1d77-4380-87e8-b7825aabf74b.png)
 
