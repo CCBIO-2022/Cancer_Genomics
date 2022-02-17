@@ -37,6 +37,6 @@ https://skjemaker.app.uib.no/view.php?id=12197011
 https://skjemaker.app.uib.no/view.php?id=12197762       
 
 ### Contacts             
-Liv Cecilie Vestrheim Thomsen  | Liv.Vestrheim@uib.no
-Erling Andre Høivik            | Erling.Hoivik@uib.no
-support: Rebecca Nguyen        | Rebecca.Nguyen@uib.no
+Liv Cecilie Vestrheim Thomsen  | Liv.Vestrheim@uib.no        
+Erling Andre Høivik            | Erling.Hoivik@uib.no          
+support: Rebecca Nguyen        | Rebecca.Nguyen@uib.no          
