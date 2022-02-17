@@ -15,7 +15,7 @@ https://uib.zoom.us/j/64845033505?pwd=K215akltelhya1hGN0lJVlJqNWxDQT09
 https://www.uib.no/emne/CCBIO906       
 
 ## Location (for those in Bergen)
-Rooms at Haukeland University hospital     
+Rooms at Haukeland University Hospital     
 ![image](https://user-images.githubusercontent.com/7384422/154360033-0de8795d-5aab-4f2a-856e-03c55e7efec2.png)
 
 ## Time schedule    
