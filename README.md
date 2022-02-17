@@ -26,7 +26,7 @@ https://www.uib.no/emne/CCBIO906
 ## Litterature list        
 [Full downloadable litterature list](https://filesender.uninett.no/download.php?token=dc8afd10-d4ac-4ad2-a22e-e5a36cee0e9f&files_ids=965528)    
 
-**Core litterature**     
+**Only displayed core litterature here**     
 ![image](https://user-images.githubusercontent.com/99884739/154496171-33602a2f-81d9-4515-81e4-00f3d1f7ca9a.png)
 
 ## Assignments:          
