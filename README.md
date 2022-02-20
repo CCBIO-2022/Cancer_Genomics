@@ -25,8 +25,8 @@ Rooms at Haukeland University Hospital
 
 ![image](https://user-images.githubusercontent.com/7384422/154360475-32cc6f1c-7e42-49c8-ac8e-92ea3eb4053d.png)
 
-## Litterature list        
-[Full downloadable litterature list](https://filesender.uninett.no/download.php?token=dc8afd10-d4ac-4ad2-a22e-e5a36cee0e9f&files_ids=965528)    
+## Literature list        
+[Full downloadable literature list](https://filesender.uninett.no/download.php?token=dc8afd10-d4ac-4ad2-a22e-e5a36cee0e9f&files_ids=965528)    
 
 **Only displayed core litterature here**     
 ![image](https://user-images.githubusercontent.com/99884739/154496171-33602a2f-81d9-4515-81e4-00f3d1f7ca9a.png)
@@ -38,7 +38,7 @@ Rooms at Haukeland University Hospital
 
 ### Assignment 2 | Group work submission    
 
-Include the following in your "1-page" submission (min 250 words):
+Include the following in your "1-page" submission (min 350 words):
 - Title/question     
 - Name of all persons in the group     
 - Background
