@@ -36,9 +36,11 @@ Rooms at Haukeland University Hospital
 ### Assignment 1 | pre course submission (questions)             
 [Please, submit assignment_1 here:](https://skjemaker.app.uib.no/view.php?id=12197011)    
 
-### Assignment 2 | Group work submission    
+### Assignment 2 | Group work submission
 
-Include the following in your "1-page" submission (min 350 words):
+Task: Group to do the following assignment together: Write a document about a topic/method/idea/technology/paper/concerns/approach that we have touched upon in the cancer genomics course. Take a round around the group. Start with sharing your questions from the pre-assignment, allowing brain-storming. Then collectively formulate and agree on a topic for the assignment that you will do together and present on day 3 of the course. Finally, together, write a 1-page document on this, and submit within one week. 
+
+Include the following in your "1-page" submission (min 350 words, max 1 page):
 - Title/question     
 - Name of all persons in the group     
 - Background
