@@ -38,7 +38,8 @@ Rooms at Haukeland University Hospital
 
 ### Assignment 2 | Group work submission
 
-Task: Group to do the following assignment together: Write a document about a topic/method/idea/technology/paper/concerns/approach that we have touched upon in the cancer genomics course. Take a round around the group. Start with sharing your questions from the pre-assignment, allowing brain-storming. Then collectively formulate and agree on a topic for the assignment that you will do together and present on day 3 of the course. Finally, together, write a 1-page document on this, and submit within one week. 
+Task: Group to do the following assignment together: Write a document about a topic/method/idea/technology/paper/concerns/approach that we have touched upon in the cancer genomics course. Take a round around the group. Start with sharing your questions from the pre-assignment, allowing brain-storming. Then collectively formulate and agree on a topic for the assignment that you will do together and present on day 3 of the course. Together, write a 1-page document on this, and submit.
+Submission deadline: 08.March 2022, submit individually.
 
 Include the following in your "1-page" submission (min 350 words, max 1 page):
 - Title/question     
