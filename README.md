@@ -55,25 +55,97 @@ Include the following in your "1-page" submission (min 350 words, max 1 page):
 
 #### Student groups (zoom links)  
 
-**Group 1**    
-https://uib.zoom.us/j/64675984623?pwd=aHUybWd6d1RYRTBObEZZaUNCUDFTZz09
+**Group 1**  
+Hanna Bredin     
+Tara Dowling    
+Rammah Elnour    
+Mariell Rivedal    
+Nigar Sofiyeva     
+
+https://uib.zoom.us/j/64675984623?pwd=aHUybWd6d1RYRTBObEZZaUNCUDFTZz09    
 
 Meeting ID: 646 7598 4623
 Password: XGiNq0Q7
 
-**Group 2**      
-https://uib.zoom.us/j/68055587526?pwd=M1JwTW5YZnE3aUhNb0VRSzFDV2JDUT09
+**Group 2**  
+Eirin Abrahamsson    
+Pål ToreBentsen     
+Maren Sofie Guttormsen    
+Christine Haugseth Holen    
+
+https://uib.zoom.us/j/68055587526?pwd=M1JwTW5YZnE3aUhNb0VRSzFDV2JDUT09    
 
 Meeting ID: 680 5558 7526
 Password: MmK8Z6jR
 
-**Group 3**          
-https://uib.zoom.us/j/63598249566?pwd=WHBtTlgvcTlSMkcwVlgzV3MxMU1UZz09
+**Group 3**     
+Marta Espevold Hjelmeland     
+Apsana Lamsal    
+Peder Lillebostad    
+Amalie Fagerli Tegnander    
+
+https://uib.zoom.us/j/63598249566?pwd=WHBtTlgvcTlSMkcwVlgzV3MxMU1UZz09   
 
 Meeting ID: 635 9824 9566
 Password: z3xsmKuk
 
+**Group 4-digital**    
+Anne Michelle Aakre    
+Zain Ul Abideen    
+Odd-Erik Bakkebø     
+Ida Egendal     
+Osman Goni     
+Dhanaprakash Jambulingam     
 
+zoom:https://uib.zoom.us/j/66913478455?pwd=UC9iMnpNSjRDcVArZHFVRlVQbWFKQT09        
+ID: 669 1347 8455    Password: ET7bnXUV      
+
+**Group 5-digital** 
+Asia Aljiafiri    
+Hesham Amin   
+Yaping Hua    
+Saara Koivusalo   
+Silje Lier  
+Inga Rye    
+https://uib.zoom.us/j/69583830811?pwd=UnNSbU1RaEU5Rjh1SWpCRUR6V0M2QT09   
+Meeting ID: 695 8383 0811B  Password: m04L4RVD    
+
+**Group 6-digital** 
+![image](https://user-images.githubusercontent.com/99884739/154958169-20a4eeda-b373-4a62-8cc8-e272d48723e1.png)
+
+https://uib.zoom.us/j/61533860765?pwd=RDF1YklObGMwNDgxSE9ndGRMaEZYZz09Meeting    
+ID: 615 3386 0765Password: zFz99pfp  
+
+**Group 7-digital**     
+![image](https://user-images.githubusercontent.com/99884739/154958276-f014992e-3112-41f2-8a10-1609930a60b6.png)
+
+https://uib.zoom.us/j/65469895705?pwd=Nk5uckt5aUtxYmZyRE03b0Joa1N0UT09          
+Meeting ID: 654 6989 5705Password: Vt384pfn       
+
+**Group 8-digital** 
+![image](https://user-images.githubusercontent.com/99884739/154958391-75d933df-eb06-4e86-8368-1a964464ffff.png)
+
+https://uib.zoom.us/j/63048641072?pwd=UW9yMEdkUzZKZjBaRk1jVmZyb2s4QT09     
+Meeting ID: 630 4864 1072Password: Tu1ZqV4p      
+
+**Group 9-digital**
+![image](https://user-images.githubusercontent.com/99884739/154958537-0c3634cf-27e4-4b77-826b-691466b97624.png)
+
+https://uib.zoom.us/j/69593999899?pwd=bzh3S2JIL0xVaW42NkZ1ZHkzV0xmdz09      
+Meeting ID: 695 9399 9899Password: Dniy3KEU     
+
+
+**Group 10-digital** 
+![image](https://user-images.githubusercontent.com/99884739/154958604-319cc558-3268-4d2f-a7bd-c35f91574c63.png)
+
+https://uib.zoom.us/j/61050948125?pwd=VktYQ2NWRnFlcHRibEhlc3FDdlpUQT09     
+Meeting ID: 610 5094 8125   Password: paN6Ci6q    
+
+**Group 11-digital** 
+![image](https://user-images.githubusercontent.com/99884739/154958705-c0d7daeb-29c2-4923-9b11-aa57ea290db6.png)
+
+https://uib.zoom.us/j/63748602990?pwd=dCs4K2NqV1dzcmNuajhnaFg4cDVoQT09     
+Meeting ID: 637 4860 2990   Password: kfE51xvF     
 
 
 ### Contacts             
