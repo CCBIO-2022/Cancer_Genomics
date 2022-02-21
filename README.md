@@ -108,13 +108,13 @@ Saara Koivusalo
 Silje Lier  
 Inga Rye      
 
-https://uib.zoom.us/j/69583830811?pwd=UnNSbU1RaEU5Rjh1SWpCRUR6V0M2QT09     
-Meeting ID: 695 8383 0811B  Password: m04L4RVD    
+https://uib.zoom.us/j/69583830811?pwd=UnNSbU1RaEU5Rjh1SWpCRUR6V0M2QT09       
+Meeting ID: 695 8383 0811B  Password: m04L4RVD          
 
-**Group 6-digital** 
-![image](https://user-images.githubusercontent.com/99884739/154958169-20a4eeda-b373-4a62-8cc8-e272d48723e1.png)
+**Group 6-digital**    
+![image](https://user-images.githubusercontent.com/99884739/154958169-20a4eeda-b373-4a62-8cc8-e272d48723e1.png)    
 
-https://uib.zoom.us/j/61533860765?pwd=RDF1YklObGMwNDgxSE9ndGRMaEZYZz09Meeting    
+https://uib.zoom.us/j/61533860765?pwd=RDF1YklObGMwNDgxSE9ndGRMaEZYZz09Meeting       
 ID: 615 3386 0765Password: zFz99pfp  
 
 **Group 7-digital**     
