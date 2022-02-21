@@ -144,7 +144,7 @@ https://uib.zoom.us/j/61050948125?pwd=VktYQ2NWRnFlcHRibEhlc3FDdlpUQT09
 Meeting ID: 610 5094 8125   Password: paN6Ci6q       
 
 **Group 11-digital**   
-![image](https://user-images.githubusercontent.com/99884739/154958705-c0d7daeb-29c2-4923-9b11-aa57ea290db6.png)   
+![image](https://user-images.githubusercontent.com/99884739/154959818-e3760ebb-df1e-469b-9c99-69f7ae375cdf.png)    
 
 https://uib.zoom.us/j/63748602990?pwd=dCs4K2NqV1dzcmNuajhnaFg4cDVoQT09        
 Meeting ID: 637 4860 2990   Password: kfE51xvF     
