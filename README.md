@@ -55,7 +55,7 @@ Include the following in your "1-page" submission (min 350 words, max 1 page):
 
 ## Student groups (zoom links)  
 
-**Group 1**  
+### **Group 1**  
 Hanna Bredin     
 Tara Dowling    
 Rammah Elnour    
