@@ -55,7 +55,7 @@ Include the following in your "1-page" submission (min 350 words, max 1 page):
 
 ## Student groups (zoom links)  
 
-### **Group 1**  
+### **Group 1 -auditorium**  
 Hanna Bredin     
 Tara Dowling    
 Rammah Elnour    
@@ -67,7 +67,7 @@ https://uib.zoom.us/j/64675984623?pwd=aHUybWd6d1RYRTBObEZZaUNCUDFTZz09
 Meeting ID: 646 7598 4623
 Password: XGiNq0Q7
 
-### **Group 2**  
+### **Group 2 -auditorium**  
 Eirin Abrahamsson    
 Pål ToreBentsen     
 Maren Sofie Guttormsen    
@@ -78,7 +78,7 @@ https://uib.zoom.us/j/68055587526?pwd=M1JwTW5YZnE3aUhNb0VRSzFDV2JDUT09
 Meeting ID: 680 5558 7526
 Password: MmK8Z6jR
 
-### **Group 3**     
+### **Group 3 -auditorium**     
 Marta Espevold Hjelmeland     
 Apsana Lamsal    
 Peder Lillebostad    
