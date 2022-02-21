@@ -53,7 +53,7 @@ Include the following in your "1-page" submission (min 350 words, max 1 page):
 **All of you need to submit individually (even though it is group work)**               
 
 
-#### Student groups (zoom links)  
+## Student groups (zoom links)  
 
 **Group 1**  
 Hanna Bredin     
