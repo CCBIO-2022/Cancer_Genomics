@@ -118,7 +118,9 @@ https://uib.zoom.us/j/61533860765?pwd=RDF1YklObGMwNDgxSE9ndGRMaEZYZz09Meeting
 ID: 615 3386 0765Password: zFz99pfp  
 
 **Group 7-digital**     
-![image](https://user-images.githubusercontent.com/99884739/154958276-f014992e-3112-41f2-8a10-1609930a60b6.png)
+![image](https://user-images.githubusercontent.com/99884739/154959494-df249395-414d-40ec-a7af-4e9fcfb21983.png)    
+![image](https://user-images.githubusercontent.com/99884739/154959553-b62c8f1a-89ad-4d0d-a591-5f9eb80ad937.png)
+
 
 https://uib.zoom.us/j/65469895705?pwd=Nk5uckt5aUtxYmZyRE03b0Joa1N0UT09          
 Meeting ID: 654 6989 5705Password: Vt384pfn       
