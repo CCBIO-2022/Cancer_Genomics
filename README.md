@@ -106,8 +106,9 @@ Hesham Amin
 Yaping Hua    
 Saara Koivusalo   
 Silje Lier  
-Inga Rye    
-https://uib.zoom.us/j/69583830811?pwd=UnNSbU1RaEU5Rjh1SWpCRUR6V0M2QT09   
+Inga Rye      
+
+https://uib.zoom.us/j/69583830811?pwd=UnNSbU1RaEU5Rjh1SWpCRUR6V0M2QT09     
 Meeting ID: 695 8383 0811B  Password: m04L4RVD    
 
 **Group 6-digital** 
@@ -133,7 +134,6 @@ Meeting ID: 630 4864 1072Password: Tu1ZqV4p
 
 https://uib.zoom.us/j/69593999899?pwd=bzh3S2JIL0xVaW42NkZ1ZHkzV0xmdz09      
 Meeting ID: 695 9399 9899Password: Dniy3KEU     
-
 
 **Group 10-digital** 
 ![image](https://user-images.githubusercontent.com/99884739/154958604-319cc558-3268-4d2f-a7bd-c35f91574c63.png)
