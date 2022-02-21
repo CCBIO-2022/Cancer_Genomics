@@ -125,28 +125,28 @@ ID: 615 3386 0765Password: zFz99pfp
 https://uib.zoom.us/j/65469895705?pwd=Nk5uckt5aUtxYmZyRE03b0Joa1N0UT09          
 Meeting ID: 654 6989 5705Password: Vt384pfn       
 
-**Group 8-digital** 
-![image](https://user-images.githubusercontent.com/99884739/154958391-75d933df-eb06-4e86-8368-1a964464ffff.png)
+**Group 8-digital**     
+![image](https://user-images.githubusercontent.com/99884739/154958391-75d933df-eb06-4e86-8368-1a964464ffff.png)   
 
-https://uib.zoom.us/j/63048641072?pwd=UW9yMEdkUzZKZjBaRk1jVmZyb2s4QT09     
-Meeting ID: 630 4864 1072Password: Tu1ZqV4p      
+https://uib.zoom.us/j/63048641072?pwd=UW9yMEdkUzZKZjBaRk1jVmZyb2s4QT09         
+Meeting ID: 630 4864 1072Password: Tu1ZqV4p       
 
-**Group 9-digital**
-![image](https://user-images.githubusercontent.com/99884739/154958537-0c3634cf-27e4-4b77-826b-691466b97624.png)
+**Group 9-digital**   
+![image](https://user-images.githubusercontent.com/99884739/154958537-0c3634cf-27e4-4b77-826b-691466b97624.png)    
 
-https://uib.zoom.us/j/69593999899?pwd=bzh3S2JIL0xVaW42NkZ1ZHkzV0xmdz09      
+https://uib.zoom.us/j/69593999899?pwd=bzh3S2JIL0xVaW42NkZ1ZHkzV0xmdz09        
 Meeting ID: 695 9399 9899Password: Dniy3KEU     
 
-**Group 10-digital** 
-![image](https://user-images.githubusercontent.com/99884739/154958604-319cc558-3268-4d2f-a7bd-c35f91574c63.png)
+**Group 10-digital**   
+![image](https://user-images.githubusercontent.com/99884739/154958604-319cc558-3268-4d2f-a7bd-c35f91574c63.png)   
 
-https://uib.zoom.us/j/61050948125?pwd=VktYQ2NWRnFlcHRibEhlc3FDdlpUQT09     
-Meeting ID: 610 5094 8125   Password: paN6Ci6q    
+https://uib.zoom.us/j/61050948125?pwd=VktYQ2NWRnFlcHRibEhlc3FDdlpUQT09        
+Meeting ID: 610 5094 8125   Password: paN6Ci6q       
 
-**Group 11-digital** 
-![image](https://user-images.githubusercontent.com/99884739/154958705-c0d7daeb-29c2-4923-9b11-aa57ea290db6.png)
+**Group 11-digital**   
+![image](https://user-images.githubusercontent.com/99884739/154958705-c0d7daeb-29c2-4923-9b11-aa57ea290db6.png)   
 
-https://uib.zoom.us/j/63748602990?pwd=dCs4K2NqV1dzcmNuajhnaFg4cDVoQT09     
+https://uib.zoom.us/j/63748602990?pwd=dCs4K2NqV1dzcmNuajhnaFg4cDVoQT09        
 Meeting ID: 637 4860 2990   Password: kfE51xvF     
 
 
