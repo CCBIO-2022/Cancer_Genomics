@@ -52,6 +52,30 @@ Include the following in your "1-page" submission (min 350 words, max 1 page):
 [Please, submit assignment_2 here:](https://skjemaker.app.uib.no/view.php?id=12197762)      
 **All of you need to submit individually (even though it is group work)**               
 
+
+#### Student groups (zoom links)  
+
+**Group 1**    
+https://uib.zoom.us/j/64675984623?pwd=aHUybWd6d1RYRTBObEZZaUNCUDFTZz09
+
+Meeting ID: 646 7598 4623
+Password: XGiNq0Q7
+
+**Group 2**      
+https://uib.zoom.us/j/68055587526?pwd=M1JwTW5YZnE3aUhNb0VRSzFDV2JDUT09
+
+Meeting ID: 680 5558 7526
+Password: MmK8Z6jR
+
+**Group 3**          
+https://uib.zoom.us/j/63598249566?pwd=WHBtTlgvcTlSMkcwVlgzV3MxMU1UZz09
+
+Meeting ID: 635 9824 9566
+Password: z3xsmKuk
+
+
+
+
 ### Contacts             
 Liv Cecilie Vestrheim Thomsen  | Liv.Vestrheim@uib.no        
 Erling Andre Høivik            | Erling.Hoivik@uib.no          
