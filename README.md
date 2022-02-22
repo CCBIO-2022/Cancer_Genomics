@@ -156,4 +156,9 @@ Meeting ID: 637 4860 2990   Password: kfE51xvF
 ### Contacts             
 Liv Cecilie Vestrheim Thomsen  | Liv.Vestrheim@uib.no        
 Erling Andre Høivik            | Erling.Hoivik@uib.no          
-support: Rebecca Nguyen        | Rebecca.Nguyen@uib.no          
+support: Rebecca Nguyen        | Rebecca.Nguyen@uib.no
+
+### One slide presentation | wednesday
+Please submit one slide per group before wednesday 09, for presentation of you idea/question/topic that you will persu in group work.
+
+https://skjemaker.app.uib.no/view.php?id=12248470   
