@@ -159,6 +159,7 @@ Erling Andre Høivik            | Erling.Hoivik@uib.no
 support: Rebecca Nguyen        | Rebecca.Nguyen@uib.no
 
 ### One slide presentation | wednesday
-Please submit one slide per group before wednesday 09, for presentation of you idea/question/topic that you will persu in group work.
+Please submit one slide per group before Wednesday 09 o'clock,     
+for presentation of you idea/question/topic that you will persue in group work.    
 
 https://skjemaker.app.uib.no/view.php?id=12248470   
