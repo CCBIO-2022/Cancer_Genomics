@@ -161,6 +161,7 @@ support: Rebecca Nguyen        | Rebecca.Nguyen@uib.no
 ### One slide presentation | wednesday
 Please submit one slide per group before Wednesday 09 o'clock,     
 for presentation of you idea/question/topic that you will persue in group work. 
+- one slide for presentation    
 - total 5 min per group    
 - select one person to present      
 - Task: Identify the group question & approaches to take to investigate this. Ok not to have a fully finished project at this stage.    
