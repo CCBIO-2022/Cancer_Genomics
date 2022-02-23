@@ -174,7 +174,7 @@ https://skjemaker.app.uib.no/view.php?id=12248470
 
 ### Social meeting after class for those in Bergen
 
-Anyone going tonight at "No Stress" for relaxing and a drink?
-mail to  Tomasz.Stokowy@uib.no      
-Today at 1900 Wednesday 23.February.
-Hope to see you there...   
+Anyone going tonight at "No Stress" for relaxing and a drink?       
+mail to hub Tomasz.Stokowy@uib.no      
+Today at 1900 Wednesday 23.February.    
+Hope to see you there...     
