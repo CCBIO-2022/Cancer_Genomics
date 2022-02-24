@@ -171,10 +171,15 @@ for presentation of you idea/question/topic that you will persue in group work.
 
 https://skjemaker.app.uib.no/view.php?id=12248470   
 
+### Course Documentation     
 
-### Social meeting after class for those in Bergen
+Dear all,    
+Thank you for participating at the CCBIO/University of Bergen course CCBIO906 Cancer Genomics.    
 
-Anyone going tonight at "No Stress" for relaxing and a drink?       
-mail to hub Tomasz.Stokowy@uib.no      
-Today at 1900 Wednesday 23.February.    
-Hope to see you there...     
+After the course there was a question about documentation of participation, and we realize that the answer given was somewhat unclear.    
+All students who registered for, and was approved by the University of Bergen to participate on the course, will receive documentation of participation.    
+Those students who applied for ECTS credits, and who have fulfilled all criteria required ( https://www.uib.no/en/course/CCBIO906 ),    
+will in due course receive confirmation from the University of Bergen for 3 ECTS credits.   
+
+Kind regards,
+Erling and Liv Cecilie
