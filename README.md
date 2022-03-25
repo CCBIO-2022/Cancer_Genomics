@@ -4,7 +4,7 @@ Essential information for course
 
 ![image](https://user-images.githubusercontent.com/99884739/154520737-f466699f-c242-4d08-8ffd-36e006ae4da5.png)
 
-## THE COURSE IS NOW COMPLETED          
+## THE COURSE for 2022 IS NOW COMPLETED          
 
 ## Zoom-link:     
 Closed    
